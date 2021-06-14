@@ -3,12 +3,8 @@
 - 🌱 I’m currently learning HTML & CSS
 ### Connect with me:
 
-[![](https://discord.c99.nl/widget/theme-4/556119013298667520.png)](https://discord.gg/h8gNrHTXxm)
-
-[<img align="left" alt="cws | YouTube" width="22px" src="https://www.youtube.com/channel/UCGqS2sFOCBe1mtMsuoJ2FpA" />][youtube]
-[<img align="left" alt="cws | Twitter" width="22px" src="https://twitter.com/iamknight06" />][twitter]
-<br />
-
+Youtube :- https://www.youtube.com/channel/UCGqS2sFOCBe1mtMsuoJ2FpA
+Twitter :- https://twitter.com/iamknight06
 
 <!---
 KNIGHTOP006/KNIGHTOP006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
