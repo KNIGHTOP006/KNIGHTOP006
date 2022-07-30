@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML & CSS
 ### Connect with me:
 
-Youtube :- https://www.youtube.com/channel/UCGqS2sFOCBe1mtMsuoJ2FpA
 Twitter :- https://twitter.com/iamknight06
 
 <!---
